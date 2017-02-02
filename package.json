@@ -1,12 +1,16 @@
 {
   "name": "watchmen-plugin-statuspage",
   "version": "0.1.0",
-  "description": "Watchment plugin to send events to statuspage.io",
+  "description": "Watchmen plugin to send events to statuspage.io",
   "main": "./lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afklm/watchmen-plugin-statuspage"
   },
-  "author": "",
+  "author": {
+    "name": "bv1p",
+    "email": "babyviper@hotmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "install": "^0.8.4",
