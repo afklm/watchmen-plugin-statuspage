@@ -1,4 +1,4 @@
-watchmen-statuspage-plugin
+watchmen-plugin-statuspage
 ===
 
 A plugin for [watchmen](https://github.com/iloire/watchmen) to forward status updates to [Atlassian's statuspage](https://www.statuspage.io/).
