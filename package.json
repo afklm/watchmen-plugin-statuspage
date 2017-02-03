@@ -1,6 +1,6 @@
 {
   "name": "watchmen-plugin-statuspage",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Watchmen plugin to send events to statuspage.io",
   "main": "./lib/index.js",
   "repository": {
